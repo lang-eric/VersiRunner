@@ -43,7 +43,7 @@ public class VersiRunner {
         }
     }
 
-    /* Sample function to represent a java function which might receive the text files lines.*/
+    /* Sample function to represent a java function which might receive the text file's lines.*/
     void do_something(String line) {
         
     }
